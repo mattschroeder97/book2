@@ -15,11 +15,11 @@ Three example of specific questions in this class are:
 Come up with five additional question classes. Each must have two or three
 variables.
 
-## (Question template)
+## How many businesses recieved an average review of X stars or above?
 Three example of specific questions in this class are:
-* (specific question)
-* (specific question)
-* (specific question)
+* How many businesses recieved an average review of 2 stars or above?
+* How many businesses recieved an average review of 3 stars or above?
+* How many businesses recieved an average review of 4 stars or above?
 
 ## (Question template)
 Three example of specific questions in this class are:

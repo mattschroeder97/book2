@@ -9,19 +9,20 @@ Tableau
 # Authors
 
 This report is prepared by
-* [Full name](link to github account)
-* [Full name](link to github account)
+* Matt Schroeder (https://github.com/mattschroeder97)
+* Karen BLackmore (https://github.com/kjblakemore)
 * [Full name](link to github account)
 * [Full name](link to github account)
 * [Full name](link to github account)
 
-# (Question)
+# Which release area had the most instances of delta time around 24 hours?
 
-(answer)
+Illinois has the most.  ~280,000 instances
+![screenshot](Week_7_Viz.png)
 
-# (Question)
+# Is there a correlation between Firmware Version and Time Deltas?
 
-(answer)
+![screenshot](Week_7_Karen_Viz.png)
 
 # (Question)
 
@@ -39,6 +40,8 @@ This report is prepared by
 
 Our team determines the following questions are too complex for Tableau and
 require custom scripts to be written.
+
+* The development of [Time Maps](https://districtdatalabs.silvrback.com/time-maps-visualizing-discrete-events-across-many-timescales) might be to complex for Tableau.  Time Maps could be used to graph observations based on their time difference from the previous observation (x-axis) and the next observation (y-axis).  We already have the x-axis values.  These are the Delta Times.  We would need to calculate the y-axis values which are the deltas between the current Observation Time and the next for a particular system.
 
 * (Question)
 * (Question)
